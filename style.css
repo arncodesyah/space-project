@@ -1,0 +1,29 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(19, 39, 73);
+}
+h1{
+    color: rgb(9, 84, 103);
+    text-decoration: underline;
+}
+ul li:nth-child(1){
+    color: aqua;
+}
+ul li:nth-child(2){
+    color: crimson;
+}
+ul li:nth-child(3){
+    color: gold;
+}
+ul li:nth-child(4){
+    color: darkslategray;
+}
+h3+p{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: red;
+}
+p{
+    color: aliceblue;
+}
